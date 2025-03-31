@@ -1,3 +1,3 @@
 <?php
-echo "Alumnos";
+echo "Alumnos version 2";
 ?>
